@@ -2,6 +2,7 @@
   "name": "personalportfolio",
   "version": "0.1.0",
   "private": true,
+  "homepage":  "http://arpita.github.io/myapp",
   "dependencies": {
     "jquery": "^3.2.1",
     "react": "^16.2.0",
