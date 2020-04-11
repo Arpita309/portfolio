@@ -111,6 +111,12 @@
         "url":"https://drum-machine.arpita309.now.sh/"
       },
       {
+        "title":"Javascript Calculator",
+        "category":"Free code Camp react project",
+        "image":"javascriptCalculator.png",
+        "url":"https://javascript-calculator-900v7h0q8.now.sh/"
+      },
+      {
         "title":"TODO app",
         "category":"CRUD app using NextJS and Firebase",
         "image":"NextTODO.jpg.png",
