@@ -99,6 +99,12 @@
         "url":"https://random-quote-machine-eta.now.sh/"
       },
       {
+        "title":"Pomodoro Clock",
+        "category":"Free code Camp react project",
+        "image":"pomodoroClock.png",
+        "url":"https://pomodoro-clock.arpita309.now.sh/"
+      },
+      {
         "title":"Markdown Previewer",
         "category":"Free code Camp react project",
         "image":"MarkdownPreviewer.jpg.png",
