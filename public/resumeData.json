@@ -105,6 +105,12 @@
         "url":"https://pomodoro-clock.arpita309.now.sh/"
       },
       {
+        "title":"Password app",
+        "category":"login and store passwords",
+        "image":"password-app.png",
+        "url":"https://password-app-yohm8erje.now.sh/initial"
+      },
+      {
         "title":"Markdown Previewer",
         "category":"Free code Camp react project",
         "image":"MarkdownPreviewer.jpg.png",
