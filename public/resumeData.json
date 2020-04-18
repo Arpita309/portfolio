@@ -110,12 +110,7 @@
         "image":"password-app.png",
         "url":"https://password-app-yohm8erje.now.sh/initial"
       },
-      {
-        "title":"Expense Tracker app",
-        "category":"Context Api and react hooks",
-        "image":"expenseTracker.png",
-        "url":"https://expenses-tracker-app.arpita309.now.sh/"
-      },
+      
       {
         "title":"Markdown Previewer",
         "category":"Free code Camp react project",
@@ -133,6 +128,12 @@
         "category":"Free code Camp react project",
         "image":"javascriptCalculator.png",
         "url":"https://javascript-calculator-900v7h0q8.now.sh/"
+      },
+      {
+        "title":"Expense Tracker app",
+        "category":"Context Api and react hooks",
+        "image":"expenseTracker.png",
+        "url":"https://expenses-tracker-app.arpita309.now.sh/"
       },
       {
         "title":"TODO app",
