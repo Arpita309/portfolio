@@ -106,9 +106,15 @@
       },
       {
         "title":"Password app",
-        "category":"login and store passwords",
+        "category":"React-redux-firebase app",
         "image":"password-app.png",
         "url":"https://password-app-yohm8erje.now.sh/initial"
+      },
+      {
+        "title":"Expense Tracker app",
+        "category":"Context Api and react hooks",
+        "image":"expenseTracker.png",
+        "url":"https://expenses-tracker-app.arpita309.now.sh/"
       },
       {
         "title":"Markdown Previewer",
