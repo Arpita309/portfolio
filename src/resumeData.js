@@ -1,4 +1,4 @@
-{
+export const data={
   "main": {
     "name":"Arpita Tiwari",
     "occupation":"Student",
@@ -156,3 +156,4 @@
     ]
   }
 }
+

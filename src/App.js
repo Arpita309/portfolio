@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 import ReactGA from 'react-ga';
 import $ from 'jquery';
 import './App.css';
+import {data} from './resumeData'
 import Header from './Components/Header';
 import Footer from './Components/Footer';
 import About from './Components/About';
@@ -24,25 +25,10 @@ class App extends Component {
 
   }
 
-  getResumeData(){
-    
-
-    $.ajax({
-      url:'https://raw.githubusercontent.com/Arpita309/portfolio/master/public/resumeData.json',
-      dataType:'json',
-      cache: false,
-      success: function(data){
-        this.setState({resumeData: data});
-      }.bind(this),
-      error: function(xhr, status, err){
-        console.log(err);
-        alert(err);
-      }
-    });
-  }
-
+  
   componentDidMount(){
-    this.getResumeData();
+    this.setState({resumeData:data})
+    console.log(data)
   }
 
   render() {
