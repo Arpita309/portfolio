@@ -28,19 +28,19 @@ class App extends Component {
   
   componentDidMount(){
     this.setState({resumeData:data})
-    console.log(data)
+    console.log(this.state.resumeData)
   }
 
   render() {
     return (
       <div className="App">
-        <Header data={this.state.resumeData.main}/>
-        <About data={this.state.resumeData.main}/>
-        <Resume data={this.state.resumeData.resume}/>
-        <Portfolio data={this.state.resumeData.portfolio}/>
+        <Header data={data.main}/>
+        <About data={data.main}/>
+        <Resume data={data.resume}/>
+        <Portfolio data={data.portfolio}/>
         
 
-        <Footer data={this.state.resumeData.main}/>
+        <Footer data={data.main}/>
       </div>
     );
   }
