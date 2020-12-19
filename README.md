@@ -4,6 +4,7 @@
 
 In ths website I have used a portfolio template and modified it according to my requirements.
 No external database is used , just a json file to store my information.
-[Link to the Website](
+[Link to the Website](https://react-resume-template-master.now.sh/)
 
-## Screenshots of the website 
+## Screenshot  
+<img src="https://github.com/Arpita309/portfolio/blob/master/public/images/portfolio/portfolio.png">
