@@ -15,7 +15,7 @@ export const data={
       "zip": "212635"
     },
     
-    "resumedownload":"https://drive.google.com/file/d/1tvt_3jGf_gXw3qedr-bQUwdH1drYdJr6/view?usp=sharing",
+    "resumedownload":"https://drive.google.com/file/d/1iqjgNJWjQ94B_cy1cVxHYY787ydtyJ-i/view?usp=sharing",
     "social":[
       
       

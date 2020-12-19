@@ -2,7 +2,7 @@
   "name": "personalportfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://arpita309.github.io/portfolio",
+ 
   "dependencies": {
     "jquery": "^3.4.1",
     "react": "^16.2.0",
@@ -15,8 +15,8 @@
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "predeploy": "npm run build"
+    
   },
   "devDependencies": {
     "gh-pages": "^2.2.0"
