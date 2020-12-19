@@ -2,9 +2,9 @@ export const data={
   "main": {
     "name":"Arpita Tiwari",
     "occupation":"Student",
-    "description":"Student and begginer in FrontEnd Development using reactJS ",
+    "description":"Student and Full Stack developer with keen interest in building responsive and fully functional web sites.",
     "image":"profile.jpeg",
-    "bio":" I am a student in NIT,Hamirpur. Currently pursuing B.Tech in Computer Science And Engineering.I have keen interest in web development and currently made some projects using ReactJS and I want to do the development using MERN stack , have basic knowledge of that and learning further.",
+    "bio":" I am a student in NIT,Hamirpur. Currently pursuing B.Tech in Computer Science And Engineering.I have keen interest in web development and currently made some projects based on MERN stack  , still learning and growing",
     "contactmessage":"All suggestions are welcome!",
     "email": "arpitatiwari309@gmail.com",
     "phone": "9455220319",
@@ -15,7 +15,7 @@ export const data={
       "zip": "212635"
     },
     
-    "resumedownload":"https://drive.google.com/file/d/15A9n2lzFsEqsQeWTOgO-ym8TuVTmAJ5f/view?usp=sharing",
+    "resumedownload":"https://drive.google.com/file/d/1tvt_3jGf_gXw3qedr-bQUwdH1drYdJr6/view?usp=sharing",
     "social":[
       
       
@@ -45,8 +45,8 @@ export const data={
     "work":[
       {
         "company":"W3 Dev",
-        "title":"ReactJS intern ",
-        "years":"March 2020 - Present"
+        "title":"Full Stack Development intern ",
+        "years":"May 2020 - Aug-2020"
         
       }
      
@@ -54,11 +54,11 @@ export const data={
     "skills":[
       {
         "name":"Git",
-        "level":"50%"
+        "level":"60%"
       },
       {
         "name":"ReactJs",
-        "level":"60%"
+        "level":"75%"
       },
       {
         "name":"CSS",
@@ -74,30 +74,39 @@ export const data={
       },
       {
         "name":"MongoDB",
+        "level":"50%"
+      },
+      {
+        "name":"Backend",
+        "level":"50%"
+      },
+      {
+        "name":"GraphQL",
         "level":"20%"
       }
+
     ]
   },
   "portfolio":{
     "projects": [
       {
+        "title":"Annadan- because someone is hungry",
+        "category":"This is template for food donation site",
+        "image":"annadan.png",
+        "url":"https://annadanngo.herokuapp.com/"
+      },
+      {
         "title":"Portfolio Website",
-        "category":"this site for personal portfolio",
+        "category":"This site for personal portfolio",
         "image":"portfolio.png",
         "url":"https://react-resume-template-master.now.sh/"
       },
       {
-        "title":"TODO app using reactjs",
-        "category":"My first CRUD app",
-        "image":"todo.jpg.png",
-        "url":"https://todo-app.arpita309.now.sh/"
+        "title":"Builder-X",
+        "category":"Internship Project (Partiallly complete)",
+        "image":"Builder-X.png"
       },
-      {
-        "title":"Random Quote Machine",
-        "category":"Free code Camp react project",
-        "image":"randomQuote.jpg.png",
-        "url":"https://random-quote-machine-eta.now.sh/"
-      },
+        
       {
         "title":"Pomodoro Clock",
         "category":"Free code Camp react project",
@@ -109,31 +118,25 @@ export const data={
         "category":"React-redux-firebase app",
         "image":"password-app.png",
         "url":"https://password-app-yohm8erje.now.sh/initial"
-      },
-      
+      }
+      ,
       {
-        "title":"Markdown Previewer",
-        "category":"Free code Camp react project",
-        "image":"MarkdownPreviewer.jpg.png",
-        "url":"https://markdown-previewer-k8z1ihzmu.now.sh/"
-      },
-      {
-        "title":"Drum Machine",
-        "category":"Free code Camp react project",
-        "image":"DrumMachine.jpg.png",
-        "url":"https://drum-machine.arpita309.now.sh/"
-      },
-      {
-        "title":"Javascript Calculator",
-        "category":"Free code Camp react project",
-        "image":"javascriptCalculator.png",
-        "url":"https://javascript-calculator-900v7h0q8.now.sh/"
+        "title":"Movie Listing App",
+        "category":"Implementation of GraphQl",
+        "image":"MovieListing.png",
+        "url":"https://graph-qlapp.herokuapp.com/#/"
       },
       {
         "title":"Expense Tracker app",
         "category":"Context Api and react hooks",
         "image":"expenseTracker.png",
         "url":"https://expenses-tracker-app.arpita309.now.sh/"
+      },
+      {
+        "title":"Real Time Chat app (Under Development)",
+        "category":"Socket.Io",
+        "image":"Chat App.png",
+        "url":"https://chat-app-eta.now.sh/"
       },
       {
         "title":"TODO app",
